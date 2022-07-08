@@ -1,0 +1,22 @@
+.webgl {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  /* background: #cdf0ea; */
+  background: #e6d5b8;
+}
+
+.webgl_light {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  /* background: #cdf0ea; */
+  background: #202124;
+}
+
+.haunted_canvas {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  background: #000000;
+}
