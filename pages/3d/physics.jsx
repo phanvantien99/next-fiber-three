@@ -48,7 +48,7 @@ const Physics3D = () => {
       <Physics
         broadphase="SAP"
         allowSleep
-        gravity={[0, -9.82, 0]}
+        gravity={[0, -9.82,   0]}
         defaultContactMaterial={{ friction: 0.1, restitution: 0.7 }}
       >
         <Scence boxes={boxes} spheres={sphere} hitSound={playHitSound} />
